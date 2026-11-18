@@ -15,3 +15,11 @@ h1 {
     border-radius: 8px;
     display: inline-block;
 }
+
+.instagram {
+    background-color: #E1306C;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    display: inline-block;
+}
