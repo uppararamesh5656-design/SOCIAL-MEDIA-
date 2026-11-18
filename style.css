@@ -1,0 +1,17 @@
+body {
+    background-color: #f2f2f2;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333333;
+}
+
+.youtube {
+    background-color: #ff0000;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    display: inline-block;
+}
